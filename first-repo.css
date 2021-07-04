@@ -1,0 +1,49 @@
+#one{
+    color: burlywood;
+}
+#two{
+    text-align: center;
+    color: #00ffd5;
+}
+.one{
+    color: chartreuse;
+    background-color: darkgray;
+}
+#log-in{
+    background-color: blue;
+    color: white;
+}
+#submit{
+    color: white;
+    background-color: red;
+}
+.div-one{
+    background-color: seagreen;
+    border: solid gray;
+    margin-bottom: 20px;
+}
+.div-two{
+    background-color: sienna;
+    border: outset pink 20px;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: justify;
+}
+.span-one{
+    color: rgb(93, 236, 10);
+}
+.rakib{
+    height: 200px;
+    width: 225px;
+    margin-left: 30%;
+    border-radius: 70px;
+}
+.span-two{
+    color: red;
+    padding-left: 40px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.span-three{
+    font-size: 25px;
+}
