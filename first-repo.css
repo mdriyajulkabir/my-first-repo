@@ -47,3 +47,11 @@
 .span-three{
     font-size: 25px;
 }
+#connet-me{
+    background-color: blue;
+    margin-left: 20px;
+    border: outset pink 5px;
+}
+.connet-me-one{
+    color: whitesmoke;
+}
